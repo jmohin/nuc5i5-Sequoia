@@ -15,10 +15,12 @@ Nuc5i5RYH with:
 ## How I did it
 Followed this guide for the install:
  - https://github.com/5T33Z0/OCLP4Hackintosh/blob/main/Guides/Haswell-Broadwell.md
-Note that the top guide uses "stock" OCLP and the bottom guide uses a fork called OCLP-mod; only OCLP-mod works for Wifi/BT
 
 And I followed this guide for Wifi/BT:
  - https://github.com/5T33Z0/OCLP4Hackintosh/blob/main/Enable_Features/AirportItllwm_Sequoia.md
+
+Note that the top guide uses "stock" OCLP and the bottom guide uses a fork called OCLP-mod; only OCLP-mod works for Wifi/BT
+
 
 ## What works
  - Sleep/wake
