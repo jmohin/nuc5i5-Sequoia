@@ -1,6 +1,9 @@
 
 <img width="1440" height="810" alt="Screenshot 2026-02-03 at 6 04 08 PM" src="https://github.com/user-attachments/assets/18144462-1039-4d14-9965-324cd113f58e" />
 
+# Update 4/1/2026
+Can update to Sequoia 15.7.4 without issue, attempting 15.7.5
+
 # Intel NUC (NUC5i5) running Sequoia 15.7.3
 Fully working OSX Sequoia using OpenCore, OpenCoreLegacyPatcher
 
